@@ -29,4 +29,4 @@ def FrameCapture(path):
 if __name__ == '__main__':
   
     # Calling the function
-    FrameCapture("C:\\Users\\Singh\\Music\\Video Projects\\gndu amritsar.mp4")
+    FrameCapture("path of mp4 file")
